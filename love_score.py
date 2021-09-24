@@ -2,7 +2,6 @@ print("Welcome to the Love Calculator!")
 name1 = input("What is your name and surname? \n").lower()
 name2 = input("What is her/his name and surname? \n").lower()
 
-#Write your code below this line 👇
 names = name1 + name2
 t=names.count("t")
 r=names.count("r")
@@ -28,7 +27,7 @@ print("O occures",o,"times")
 print("V occures",v,"times")
 print("E occures",e,"times")
 print("Total=",love)
-
+#Score
 love_score = str(love)+str(true)
-emoji = "\U0001F49A \U00002764 "
+emoji = "\U0001F49A \U00002764 " #Love stickers
 print(f"Your love percenage is: {love_score}",emoji)
