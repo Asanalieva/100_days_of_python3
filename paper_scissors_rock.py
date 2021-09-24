@@ -28,7 +28,7 @@ scissors = '''
 ---.(___)
 '''
 
-# MY choice printed
+# My choice printed
 if player == 0:
     print(rock)
 elif player == 1:
