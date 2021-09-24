@@ -1,8 +1,6 @@
-# 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name and surname? \n").lower()
 name2 = input("What is her/his name and surname? \n").lower()
-# 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
 names = name1 + name2
