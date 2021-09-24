@@ -8,7 +8,7 @@ if result < 18.5:
     print("Result is", result, 'you\'re underweight')
 elif result < 25:
     print("Result is", result, 'you have normal weight')
-elif  result < 30:
+elif result < 30:
     print("Result is", result, 'you\'re overweight')
 elif result < 35:
     print("Result is", result, 'you\'re obese')
