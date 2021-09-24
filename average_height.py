@@ -15,5 +15,5 @@ for students in student_heights:
     lenth += 1
 print("lenth is:", lenth)
 
-# Average heights
+# Average height
 print("Average heights is:", sum_of_height // lenth)
