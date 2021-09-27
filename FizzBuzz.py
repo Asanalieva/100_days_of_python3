@@ -8,10 +8,10 @@ for i in range(1, 101):
     else:
         print(i)
 
-''' program will print each number from 1 to 100 in turn.` 
+''' program will print each number from 1 to 100 in turn.
 
->   `When the number is divisible by 3 then instead of printing the number it will print "Fizz".` 
+   When the number is divisible by 3 then instead of printing the number it will print "Fizz".
 
->     `When the number is divisible by 5, then instead of printing the number it will print "Buzz".` 
+     When the number is divisible by 5, then instead of printing the number it will print "Buzz".
 
->       `And if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it will print "FizzBuzz" '''
+>      And if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it will print "FizzBuzz" '''
